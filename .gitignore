@@ -1,0 +1,11 @@
+# Laravel
+app/vendor/
+app/node_modules/
+app/storage/*.key
+app/.env
+
+# OS files
+.DS_Store
+
+# Docker volumes (ถ้ามี mount)
+dbdata/
